@@ -1,0 +1,11 @@
+{
+  "name": "dotconfig",
+  "version": "0.0.0",
+  "description": "Manage config files inside the .config directory.",
+  "keywords": [
+    "config",
+    ".config",
+    "cli"
+  ],
+  "license": "MIT"
+}
